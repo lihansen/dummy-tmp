@@ -1,1 +1,3 @@
-sets.py
+public/*
+node_modules/*
+scripts/*
